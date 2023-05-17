@@ -4,7 +4,7 @@
 * [xilinx-toolkit](https://github.com/extra2000/xilinx-toolkit)
 
 ## Yocto Project Templates
-* yocto-ros2-minimal (in progress)
+* [yocto-ros2-minimal](https://github.com/extra2000/yocto-ros2-minimal)
 
 ## ROS2 Project Templates
 * [ros2-helloworld-cpp](https://github.com/extra2000/ros2-helloworld-cpp)
