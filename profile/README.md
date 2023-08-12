@@ -3,6 +3,7 @@
 ## Toolkits
 * [arduino-toolkit](https://github.com/extra2000/arduino-toolkit)
 * [latex-podman](https://github.com/extra2000/latex-podman)
+* [ros2-gazebo11-classic](https://github.com/extra2000/ros2-gazebo11-classic)
 * [yocto-toolkit](https://github.com/extra2000/yocto-toolkit)
 
 ## Yocto Project Templates
