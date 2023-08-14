@@ -8,6 +8,7 @@
 
 ## Yocto Project Templates
 * [petalinux-ros2-minimal](https://github.com/extra2000/petalinux-ros2-minimal)
+* [yocto-minimal](https://github.com/extra2000/yocto-minimal)
 * [yocto-ros2-minimal](https://github.com/extra2000/yocto-ros2-minimal)
 
 ## ROS2 Project Templates
