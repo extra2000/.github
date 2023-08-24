@@ -17,4 +17,7 @@
 
 ## Data Structures
 * [datastruct-cpp](https://github.com/extra2000/datastruct-cpp)
-* datastruct-go
+* datastruct-csharp
+* [datastruct-go](https://github.com/extra2000/datastruct-go)
+* datastruct-java
+* datastruct-rust
