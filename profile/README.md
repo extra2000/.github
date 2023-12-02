@@ -13,6 +13,9 @@
 
 ## Yocto Layers
 * [meta-datastruct](https://github.com/extra2000/meta-datastruct)
+* [meta-ecsloggercpp](https://github.com/extra2000/meta-ecsloggercpp)
+* [meta-escli-cpp](https://github.com/extra2000/meta-escli-cpp)
+* [meta-escli-go](https://github.com/extra2000/meta-escli-go)
 
 ## ROS2 Project Templates
 * [ros2-helloworld-cpp](https://github.com/extra2000/ros2-helloworld-cpp)
