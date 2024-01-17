@@ -17,6 +17,7 @@
 * [meta-escli-cpp](https://github.com/extra2000/meta-escli-cpp)
 * [meta-escli-go](https://github.com/extra2000/meta-escli-go)
 * [meta-osquery](https://github.com/extra2000/meta-osquery)
+* [meta-toolbox-cpp](https://github.com/extra2000/meta-toolbox-cpp)
 
 ## ROS2 Project Templates
 * [ros2-helloworld-cpp](https://github.com/extra2000/ros2-helloworld-cpp)
